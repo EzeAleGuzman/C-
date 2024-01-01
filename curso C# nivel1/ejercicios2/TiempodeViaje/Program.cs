@@ -13,12 +13,18 @@ namespace TiempodeViaje
         Console.WriteLine("Distancia Entre Ciudades: ");
         // Capturo el valor y lo asigno a mi variable
         distancia = int.Parse(Console.ReadLine());
+        Console.WriteLine(new string('*', 50));
         // Solicito La velocidad por pantalla
         Console.WriteLine("velocidad Promedio: ");
         // Capturo el valor y lo asigno a su variable
         velocidad = int.Parse(Console.ReadLine());
 
-        // Realizo la operacion 
+        // Realizo la operacion y asigno el resultado a una nueva variable
+        resultado = distancia / velocidad;
+        Console.WriteLine(new string('*', 50));
+        Console.WriteLine(new string('*', 50));
+        //muestro el resultado por consola
+        Console.WriteLine("El tiempo estimado de viaje es de " + resultado + " Horas");
 
         }
     }
