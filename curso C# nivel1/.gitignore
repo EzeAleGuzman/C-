@@ -1,0 +1,5 @@
+# Ignorar todos los archivos
+*
+
+# Permitir archivos de código fuente C#
+!*.cs
