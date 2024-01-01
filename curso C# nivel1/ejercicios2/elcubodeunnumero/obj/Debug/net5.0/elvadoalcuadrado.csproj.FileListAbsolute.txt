@@ -1,0 +1,15 @@
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\elvadoalcuadrado\obj\Debug\net5.0\elvadoalcuadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\elvadoalcuadrado\obj\Debug\net5.0\elvadoalcuadrado.AssemblyInfoInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\elvadoalcuadrado\obj\Debug\net5.0\elvadoalcuadrado.AssemblyInfo.cs
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\elvadoalcuadrado\obj\Debug\net5.0\elvadoalcuadrado.csproj.CoreCompileInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\elvadoalcuadrado\bin\Debug\net5.0\elvadoalcuadrado.exe
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\elvadoalcuadrado\bin\Debug\net5.0\elvadoalcuadrado.deps.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\elvadoalcuadrado\bin\Debug\net5.0\elvadoalcuadrado.runtimeconfig.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\elvadoalcuadrado\bin\Debug\net5.0\elvadoalcuadrado.runtimeconfig.dev.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\elvadoalcuadrado\bin\Debug\net5.0\elvadoalcuadrado.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\elvadoalcuadrado\bin\Debug\net5.0\elvadoalcuadrado.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\elvadoalcuadrado\obj\Debug\net5.0\elvadoalcuadrado.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\elvadoalcuadrado\obj\Debug\net5.0\refint\elvadoalcuadrado.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\elvadoalcuadrado\obj\Debug\net5.0\elvadoalcuadrado.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\elvadoalcuadrado\obj\Debug\net5.0\elvadoalcuadrado.genruntimeconfig.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\elvadoalcuadrado\obj\Debug\net5.0\ref\elvadoalcuadrado.dll
