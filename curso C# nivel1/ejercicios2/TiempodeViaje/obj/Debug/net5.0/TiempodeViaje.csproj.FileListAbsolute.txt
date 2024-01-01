@@ -1,0 +1,16 @@
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\TiempodeViaje\obj\Debug\net5.0\TiempodeViaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\TiempodeViaje\obj\Debug\net5.0\TiempodeViaje.AssemblyInfoInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\TiempodeViaje\obj\Debug\net5.0\TiempodeViaje.AssemblyInfo.cs
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\TiempodeViaje\obj\Debug\net5.0\TiempodeViaje.csproj.CoreCompileInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\TiempodeViaje\obj\Debug\net5.0\TiempodeViaje.sourcelink.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\TiempodeViaje\bin\Debug\net5.0\TiempodeViaje.exe
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\TiempodeViaje\bin\Debug\net5.0\TiempodeViaje.deps.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\TiempodeViaje\bin\Debug\net5.0\TiempodeViaje.runtimeconfig.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\TiempodeViaje\bin\Debug\net5.0\TiempodeViaje.runtimeconfig.dev.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\TiempodeViaje\bin\Debug\net5.0\TiempodeViaje.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\TiempodeViaje\bin\Debug\net5.0\TiempodeViaje.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\TiempodeViaje\obj\Debug\net5.0\TiempodeViaje.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\TiempodeViaje\obj\Debug\net5.0\refint\TiempodeViaje.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\TiempodeViaje\obj\Debug\net5.0\TiempodeViaje.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\TiempodeViaje\obj\Debug\net5.0\TiempodeViaje.genruntimeconfig.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\TiempodeViaje\obj\Debug\net5.0\ref\TiempodeViaje.dll

@@ -1,0 +1,16 @@
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\ComisionEmpleado\obj\Debug\net5.0\ComisionEmpleado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\ComisionEmpleado\obj\Debug\net5.0\ComisionEmpleado.AssemblyInfoInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\ComisionEmpleado\obj\Debug\net5.0\ComisionEmpleado.AssemblyInfo.cs
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\ComisionEmpleado\obj\Debug\net5.0\ComisionEmpleado.csproj.CoreCompileInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\ComisionEmpleado\obj\Debug\net5.0\ComisionEmpleado.sourcelink.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\ComisionEmpleado\bin\Debug\net5.0\ComisionEmpleado.exe
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\ComisionEmpleado\bin\Debug\net5.0\ComisionEmpleado.deps.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\ComisionEmpleado\bin\Debug\net5.0\ComisionEmpleado.runtimeconfig.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\ComisionEmpleado\bin\Debug\net5.0\ComisionEmpleado.runtimeconfig.dev.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\ComisionEmpleado\bin\Debug\net5.0\ComisionEmpleado.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\ComisionEmpleado\bin\Debug\net5.0\ComisionEmpleado.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\ComisionEmpleado\obj\Debug\net5.0\ComisionEmpleado.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\ComisionEmpleado\obj\Debug\net5.0\refint\ComisionEmpleado.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\ComisionEmpleado\obj\Debug\net5.0\ComisionEmpleado.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\ComisionEmpleado\obj\Debug\net5.0\ComisionEmpleado.genruntimeconfig.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\ejercicios2\ComisionEmpleado\obj\Debug\net5.0\ref\ComisionEmpleado.dll
