@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\calculadora\\calculadora.csproj": {}
+    "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\ejercicios2\\suma\\calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\calculadora\\calculadora.csproj": {
+    "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\ejercicios2\\suma\\calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\calculadora\\calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\ejercicios2\\suma\\calculadora.csproj",
         "projectName": "calculadora",
-        "projectPath": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\calculadora\\calculadora.csproj",
+        "projectPath": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\ejercicios2\\suma\\calculadora.csproj",
         "packagesPath": "C:\\Users\\ezeal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\calculadora\\obj\\",
+        "outputPath": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\ejercicios2\\suma\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ezeal\\AppData\\Roaming\\NuGet\\NuGet.Config"

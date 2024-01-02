@@ -6,6 +6,9 @@ namespace NotasPromedio
     {
         static void Main(string[] args)
         {
+            
+            // Hacer un programa para ingresar por teclado las tres notas de exámenes de un alumno y luego calcule y emita por pantalla el promedio final.
+            
             //instancio las variables
             float nota1, nota2, nota3, promedio;
 

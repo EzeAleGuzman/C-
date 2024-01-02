@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\practica\\practica.csproj",
+      "projectUniqueName": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\ejercicios1\\practica\\practica.csproj",
       "projectName": "practica",
-      "projectPath": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\practica\\practica.csproj",
+      "projectPath": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\ejercicios1\\practica\\practica.csproj",
       "packagesPath": "C:\\Users\\ezeal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\practica\\obj\\",
+      "outputPath": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\ejercicios1\\practica\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ezeal\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -6,6 +6,9 @@ namespace calculadora
     {
         static void Main(string[] args)
         {
+
+            //Hacer un programa para solicitar dos números y luego calcule y emita la suma en pantalla.
+
             // paso 0
             // Tipo de dato : Int, float, char, bool
             int n1, n2, resultado;

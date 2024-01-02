@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\ejercicios2\\elvadoalcuadrado\\elvadoalcuadrado.csproj",
+      "projectUniqueName": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\ejercicios2\\elcubodeunnumero\\elvadoalcuadrado.csproj",
       "projectName": "elvadoalcuadrado",
-      "projectPath": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\ejercicios2\\elvadoalcuadrado\\elvadoalcuadrado.csproj",
+      "projectPath": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\ejercicios2\\elcubodeunnumero\\elvadoalcuadrado.csproj",
       "packagesPath": "C:\\Users\\ezeal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\ejercicios2\\elvadoalcuadrado\\obj\\",
+      "outputPath": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\ejercicios2\\elcubodeunnumero\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ezeal\\AppData\\Roaming\\NuGet\\NuGet.Config"

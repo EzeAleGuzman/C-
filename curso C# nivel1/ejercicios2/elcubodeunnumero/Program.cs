@@ -6,6 +6,10 @@ namespace elvadoalcuadrado
     {
         static void Main(string[] args)
         {
+
+        //Hacer un programa para solicitar por teclado un número y luego devolver su valor elevado al cubo.
+
+
         // Defino las Variables
         int num, resultado;
 
