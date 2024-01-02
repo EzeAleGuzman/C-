@@ -21,7 +21,7 @@ namespace NotasPromedio
             promedio = (nota1 + nota2 + nota3) / 3;
 
             //muestro por consola el promedio de notas
-            Console.WriteLine("El Promedio de las 3 notas es: "+ promedio);
+            Console.WriteLine("El Promedio de las 3 notas es: "+ promedio.ToString("0.00"));
 
 
         }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NotasPromedio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1e8eafd0d43aff493c7a652aa2831c31f80fef8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a73ef8e4e46bf3d21b00615edcf767d01d6f29b")]
 [assembly: System.Reflection.AssemblyProductAttribute("NotasPromedio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NotasPromedio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
