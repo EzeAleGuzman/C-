@@ -1,0 +1,16 @@
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\mayorMenor\obj\Debug\net5.0\mayorMenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\mayorMenor\obj\Debug\net5.0\mayorMenor.AssemblyInfoInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\mayorMenor\obj\Debug\net5.0\mayorMenor.AssemblyInfo.cs
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\mayorMenor\obj\Debug\net5.0\mayorMenor.csproj.CoreCompileInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\mayorMenor\obj\Debug\net5.0\mayorMenor.sourcelink.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\mayorMenor\bin\Debug\net5.0\mayorMenor.exe
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\mayorMenor\bin\Debug\net5.0\mayorMenor.deps.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\mayorMenor\bin\Debug\net5.0\mayorMenor.runtimeconfig.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\mayorMenor\bin\Debug\net5.0\mayorMenor.runtimeconfig.dev.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\mayorMenor\bin\Debug\net5.0\mayorMenor.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\mayorMenor\bin\Debug\net5.0\mayorMenor.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\mayorMenor\obj\Debug\net5.0\mayorMenor.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\mayorMenor\obj\Debug\net5.0\refint\mayorMenor.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\mayorMenor\obj\Debug\net5.0\mayorMenor.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\mayorMenor\obj\Debug\net5.0\mayorMenor.genruntimeconfig.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\mayorMenor\obj\Debug\net5.0\ref\mayorMenor.dll
