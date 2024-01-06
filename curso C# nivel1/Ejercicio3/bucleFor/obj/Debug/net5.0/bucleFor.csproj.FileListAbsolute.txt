@@ -1,0 +1,16 @@
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\bucleFor\bin\Debug\net5.0\bucleFor.exe
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\bucleFor\bin\Debug\net5.0\bucleFor.deps.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\bucleFor\bin\Debug\net5.0\bucleFor.runtimeconfig.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\bucleFor\bin\Debug\net5.0\bucleFor.runtimeconfig.dev.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\bucleFor\bin\Debug\net5.0\bucleFor.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\bucleFor\bin\Debug\net5.0\bucleFor.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\bucleFor\obj\Debug\net5.0\bucleFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\bucleFor\obj\Debug\net5.0\bucleFor.AssemblyInfoInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\bucleFor\obj\Debug\net5.0\bucleFor.AssemblyInfo.cs
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\bucleFor\obj\Debug\net5.0\bucleFor.csproj.CoreCompileInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\bucleFor\obj\Debug\net5.0\bucleFor.sourcelink.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\bucleFor\obj\Debug\net5.0\bucleFor.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\bucleFor\obj\Debug\net5.0\refint\bucleFor.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\bucleFor\obj\Debug\net5.0\bucleFor.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\bucleFor\obj\Debug\net5.0\bucleFor.genruntimeconfig.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\bucleFor\obj\Debug\net5.0\ref\bucleFor.dll

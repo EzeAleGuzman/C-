@@ -1,0 +1,16 @@
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\promedioEdad\obj\Debug\net5.0\promedioEdad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\promedioEdad\obj\Debug\net5.0\promedioEdad.AssemblyInfoInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\promedioEdad\obj\Debug\net5.0\promedioEdad.AssemblyInfo.cs
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\promedioEdad\obj\Debug\net5.0\promedioEdad.csproj.CoreCompileInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\promedioEdad\obj\Debug\net5.0\promedioEdad.sourcelink.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\promedioEdad\bin\Debug\net5.0\promedioEdad.exe
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\promedioEdad\bin\Debug\net5.0\promedioEdad.deps.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\promedioEdad\bin\Debug\net5.0\promedioEdad.runtimeconfig.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\promedioEdad\bin\Debug\net5.0\promedioEdad.runtimeconfig.dev.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\promedioEdad\bin\Debug\net5.0\promedioEdad.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\promedioEdad\bin\Debug\net5.0\promedioEdad.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\promedioEdad\obj\Debug\net5.0\promedioEdad.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\promedioEdad\obj\Debug\net5.0\refint\promedioEdad.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\promedioEdad\obj\Debug\net5.0\promedioEdad.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\promedioEdad\obj\Debug\net5.0\promedioEdad.genruntimeconfig.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio3\promedioEdad\obj\Debug\net5.0\ref\promedioEdad.dll

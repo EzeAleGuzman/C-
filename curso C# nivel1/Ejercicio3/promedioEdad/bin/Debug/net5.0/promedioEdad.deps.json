@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "promedioEdad/1.0.0": {
+        "runtime": {
+          "promedioEdad.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "promedioEdad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
