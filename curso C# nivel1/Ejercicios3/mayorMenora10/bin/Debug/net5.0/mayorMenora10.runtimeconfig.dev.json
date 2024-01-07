@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ezeal\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ezeal\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios3\mayorMenora10\obj\Debug\net5.0\mayorMenora10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios3\mayorMenora10\obj\Debug\net5.0\mayorMenora10.AssemblyInfoInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios3\mayorMenora10\obj\Debug\net5.0\mayorMenora10.AssemblyInfo.cs
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios3\mayorMenora10\obj\Debug\net5.0\mayorMenora10.csproj.CoreCompileInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios3\mayorMenora10\obj\Debug\net5.0\mayorMenora10.sourcelink.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios3\mayorMenora10\bin\Debug\net5.0\mayorMenora10.exe
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios3\mayorMenora10\bin\Debug\net5.0\mayorMenora10.deps.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios3\mayorMenora10\bin\Debug\net5.0\mayorMenora10.runtimeconfig.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios3\mayorMenora10\bin\Debug\net5.0\mayorMenora10.runtimeconfig.dev.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios3\mayorMenora10\bin\Debug\net5.0\mayorMenora10.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios3\mayorMenora10\bin\Debug\net5.0\mayorMenora10.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios3\mayorMenora10\obj\Debug\net5.0\mayorMenora10.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios3\mayorMenora10\obj\Debug\net5.0\refint\mayorMenora10.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios3\mayorMenora10\obj\Debug\net5.0\mayorMenora10.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios3\mayorMenora10\obj\Debug\net5.0\mayorMenora10.genruntimeconfig.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios3\mayorMenora10\obj\Debug\net5.0\ref\mayorMenora10.dll

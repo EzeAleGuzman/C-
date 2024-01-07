@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "mayorMenora10/1.0.0": {
+        "runtime": {
+          "mayorMenora10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mayorMenora10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
