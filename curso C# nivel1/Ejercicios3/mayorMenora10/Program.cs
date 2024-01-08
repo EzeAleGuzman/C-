@@ -12,19 +12,24 @@ namespace mayorMenora10
         //Creo La intancia de las variables
         int num;
 
-        //Solicito 
+        //Solicito por consola el ingreso de un numero y lo almaceno en la variable num
+
         Console.WriteLine("Dame un numero: ");
         num = int.Parse(Console.ReadLine());
 
-
+        //si numero es mayor a 10
         if (num > 10) {
+            //improiimo por consola
             Console.WriteLine("el numero  es mayor a 10");
         }
+        // si es menor 
         else if (num < 10){
+            //imprimo por consola que es menor
             Console.WriteLine("El numero es menor a 10");
         }
         else
         {
+            //Si el numero es igual a 10 lo imprimo por consola
             Console.WriteLine("el numero es 10");
         }
        
