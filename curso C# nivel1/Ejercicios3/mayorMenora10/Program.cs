@@ -32,7 +32,7 @@ namespace mayorMenora10
             //Si el numero es igual a 10 lo imprimo por consola
             Console.WriteLine("el numero es 10");
         }
-       
+
     }
 }
 }
