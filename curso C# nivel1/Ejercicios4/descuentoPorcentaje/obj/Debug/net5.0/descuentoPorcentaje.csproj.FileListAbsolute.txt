@@ -1,0 +1,16 @@
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios4\descuentoPorcentaje\obj\Debug\net5.0\descuentoPorcentaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios4\descuentoPorcentaje\obj\Debug\net5.0\descuentoPorcentaje.AssemblyInfoInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios4\descuentoPorcentaje\obj\Debug\net5.0\descuentoPorcentaje.AssemblyInfo.cs
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios4\descuentoPorcentaje\obj\Debug\net5.0\descuentoPorcentaje.csproj.CoreCompileInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios4\descuentoPorcentaje\obj\Debug\net5.0\descuentoPorcentaje.sourcelink.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios4\descuentoPorcentaje\bin\Debug\net5.0\descuentoPorcentaje.exe
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios4\descuentoPorcentaje\bin\Debug\net5.0\descuentoPorcentaje.deps.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios4\descuentoPorcentaje\bin\Debug\net5.0\descuentoPorcentaje.runtimeconfig.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios4\descuentoPorcentaje\bin\Debug\net5.0\descuentoPorcentaje.runtimeconfig.dev.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios4\descuentoPorcentaje\bin\Debug\net5.0\descuentoPorcentaje.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios4\descuentoPorcentaje\bin\Debug\net5.0\descuentoPorcentaje.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios4\descuentoPorcentaje\obj\Debug\net5.0\descuentoPorcentaje.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios4\descuentoPorcentaje\obj\Debug\net5.0\refint\descuentoPorcentaje.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios4\descuentoPorcentaje\obj\Debug\net5.0\descuentoPorcentaje.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios4\descuentoPorcentaje\obj\Debug\net5.0\descuentoPorcentaje.genruntimeconfig.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios4\descuentoPorcentaje\obj\Debug\net5.0\ref\descuentoPorcentaje.dll
