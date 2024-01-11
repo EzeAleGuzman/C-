@@ -26,6 +26,8 @@ namespace esPrimo
 
                     //si este resultado es afirmativocambio el valor de la variable esPrimo a falso y corto el bucle.
                     esPrimo= false;
+                    break;
+                    
                     
                 }
                 }
@@ -36,7 +38,7 @@ namespace esPrimo
             else
                 Console.WriteLine("No es primo");
                 
-                
+            Console.WriteLine(contador);
                 
             }
 

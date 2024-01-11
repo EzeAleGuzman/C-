@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicio3\\esPrimo\\esPrimo.csproj": {}
+    "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicios5\\esPrimo\\esPrimo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicio3\\esPrimo\\esPrimo.csproj": {
+    "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicios5\\esPrimo\\esPrimo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicio3\\esPrimo\\esPrimo.csproj",
+        "projectUniqueName": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicios5\\esPrimo\\esPrimo.csproj",
         "projectName": "esPrimo",
-        "projectPath": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicio3\\esPrimo\\esPrimo.csproj",
+        "projectPath": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicios5\\esPrimo\\esPrimo.csproj",
         "packagesPath": "C:\\Users\\ezeal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicio3\\esPrimo\\obj\\",
+        "outputPath": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicios5\\esPrimo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ezeal\\AppData\\Roaming\\NuGet\\NuGet.Config"
