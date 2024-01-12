@@ -30,7 +30,7 @@ namespace positivoLista
                 
                 
             }
-            Console.WriteLine("La cantidad de listas es: "contadorLista);
+            Console.WriteLine("La cantidad de listas es "+ contadorLista);
         }
     }
 }
