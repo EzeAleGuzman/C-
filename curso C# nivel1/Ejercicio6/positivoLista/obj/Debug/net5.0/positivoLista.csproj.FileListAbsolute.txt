@@ -1,0 +1,16 @@
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\positivoLista\obj\Debug\net5.0\positivoLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\positivoLista\obj\Debug\net5.0\positivoLista.AssemblyInfoInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\positivoLista\obj\Debug\net5.0\positivoLista.AssemblyInfo.cs
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\positivoLista\obj\Debug\net5.0\positivoLista.csproj.CoreCompileInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\positivoLista\obj\Debug\net5.0\positivoLista.sourcelink.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\positivoLista\bin\Debug\net5.0\positivoLista.exe
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\positivoLista\bin\Debug\net5.0\positivoLista.deps.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\positivoLista\bin\Debug\net5.0\positivoLista.runtimeconfig.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\positivoLista\bin\Debug\net5.0\positivoLista.runtimeconfig.dev.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\positivoLista\bin\Debug\net5.0\positivoLista.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\positivoLista\bin\Debug\net5.0\positivoLista.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\positivoLista\obj\Debug\net5.0\positivoLista.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\positivoLista\obj\Debug\net5.0\refint\positivoLista.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\positivoLista\obj\Debug\net5.0\positivoLista.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\positivoLista\obj\Debug\net5.0\positivoLista.genruntimeconfig.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\positivoLista\obj\Debug\net5.0\ref\positivoLista.dll
