@@ -27,15 +27,20 @@ El precio es escalonado según la siguiente escala:
 • $ 0.12 por kv por el consumo de 101 a 200 kvs.
 • $ 0.15 por kv por el consumo de 201 kvs en adelante.*/
 
-
+            //instamcio las variables
             int zona,usuario,contador;
+            //me sirve para saber la cantidad de usuarios
             contador = 0;
+            //Solicito el primer numero de zona y el primer usuario
             Console.WriteLine("Dime el numero de la zona: ");
             zona = int.Parse(Console.ReadLine());
             Console.WriteLine("Dime el numero de usuario: ");
             usuario =int.Parse(Console.ReadLine());
+
             while (zona != 0){
+
                     while (usuario != 0) {
+                        //agrego al contador de usuarios
                         contador++;
                         Console.WriteLine("Dime el numero de usuario: ");
                         usuario = int.Parse(Console.ReadLine());
@@ -45,6 +50,7 @@ El precio es escalonado según la siguiente escala:
             zona = int.Parse(Console.ReadLine());
             Console.WriteLine("Dime el numero de usuario: ");
             usuario =int.Parse(Console.ReadLine());
+            //Reinicio el contador de usuarios al cambiar de zona
             contador = 0;
             }
         }
