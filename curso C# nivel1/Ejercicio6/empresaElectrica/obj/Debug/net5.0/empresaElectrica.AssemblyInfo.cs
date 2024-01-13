@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("empresaElectrica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09bc43d947052c2e239ea3bf16701cbd74031dd3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1eaf939b73380b3b2ea482e002b58146332df9f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("empresaElectrica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("empresaElectrica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
