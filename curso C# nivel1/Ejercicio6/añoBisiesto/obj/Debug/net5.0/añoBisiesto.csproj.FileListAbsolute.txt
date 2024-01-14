@@ -1,0 +1,16 @@
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\añoBisiesto\obj\Debug\net5.0\añoBisiesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\añoBisiesto\obj\Debug\net5.0\añoBisiesto.AssemblyInfoInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\añoBisiesto\obj\Debug\net5.0\añoBisiesto.AssemblyInfo.cs
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\añoBisiesto\obj\Debug\net5.0\añoBisiesto.csproj.CoreCompileInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\añoBisiesto\obj\Debug\net5.0\añoBisiesto.sourcelink.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\añoBisiesto\bin\Debug\net5.0\añoBisiesto.exe
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\añoBisiesto\bin\Debug\net5.0\añoBisiesto.deps.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\añoBisiesto\bin\Debug\net5.0\añoBisiesto.runtimeconfig.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\añoBisiesto\bin\Debug\net5.0\añoBisiesto.runtimeconfig.dev.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\añoBisiesto\bin\Debug\net5.0\añoBisiesto.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\añoBisiesto\bin\Debug\net5.0\añoBisiesto.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\añoBisiesto\obj\Debug\net5.0\añoBisiesto.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\añoBisiesto\obj\Debug\net5.0\refint\añoBisiesto.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\añoBisiesto\obj\Debug\net5.0\añoBisiesto.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\añoBisiesto\obj\Debug\net5.0\añoBisiesto.genruntimeconfig.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\añoBisiesto\obj\Debug\net5.0\ref\añoBisiesto.dll
