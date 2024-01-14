@@ -1,0 +1,16 @@
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\productoPagar\obj\Debug\net5.0\productoPagar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\productoPagar\obj\Debug\net5.0\productoPagar.AssemblyInfoInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\productoPagar\obj\Debug\net5.0\productoPagar.AssemblyInfo.cs
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\productoPagar\obj\Debug\net5.0\productoPagar.csproj.CoreCompileInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\productoPagar\obj\Debug\net5.0\productoPagar.sourcelink.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\productoPagar\bin\Debug\net5.0\productoPagar.exe
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\productoPagar\bin\Debug\net5.0\productoPagar.deps.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\productoPagar\bin\Debug\net5.0\productoPagar.runtimeconfig.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\productoPagar\bin\Debug\net5.0\productoPagar.runtimeconfig.dev.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\productoPagar\bin\Debug\net5.0\productoPagar.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\productoPagar\bin\Debug\net5.0\productoPagar.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\productoPagar\obj\Debug\net5.0\productoPagar.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\productoPagar\obj\Debug\net5.0\refint\productoPagar.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\productoPagar\obj\Debug\net5.0\productoPagar.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\productoPagar\obj\Debug\net5.0\productoPagar.genruntimeconfig.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\productoPagar\obj\Debug\net5.0\ref\productoPagar.dll

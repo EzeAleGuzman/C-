@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicios1\\practica\\practica.csproj": {}
+    "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicios8\\productoPagar\\productoPagar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicios1\\practica\\practica.csproj": {
+    "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicios8\\productoPagar\\productoPagar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicios1\\practica\\practica.csproj",
-        "projectName": "practica",
-        "projectPath": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicios1\\practica\\practica.csproj",
+        "projectUniqueName": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicios8\\productoPagar\\productoPagar.csproj",
+        "projectName": "productoPagar",
+        "projectPath": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicios8\\productoPagar\\productoPagar.csproj",
         "packagesPath": "C:\\Users\\ezeal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicios1\\practica\\obj\\",
+        "outputPath": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicios8\\productoPagar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ezeal\\AppData\\Roaming\\NuGet\\NuGet.Config"
