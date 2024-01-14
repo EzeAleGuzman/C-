@@ -1,0 +1,16 @@
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\mayorIngreso\obj\Debug\net5.0\mayorIngreso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\mayorIngreso\obj\Debug\net5.0\mayorIngreso.AssemblyInfoInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\mayorIngreso\obj\Debug\net5.0\mayorIngreso.AssemblyInfo.cs
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\mayorIngreso\obj\Debug\net5.0\mayorIngreso.csproj.CoreCompileInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\mayorIngreso\obj\Debug\net5.0\mayorIngreso.sourcelink.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\mayorIngreso\bin\Debug\net5.0\mayorIngreso.exe
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\mayorIngreso\bin\Debug\net5.0\mayorIngreso.deps.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\mayorIngreso\bin\Debug\net5.0\mayorIngreso.runtimeconfig.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\mayorIngreso\bin\Debug\net5.0\mayorIngreso.runtimeconfig.dev.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\mayorIngreso\bin\Debug\net5.0\mayorIngreso.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\mayorIngreso\bin\Debug\net5.0\mayorIngreso.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\mayorIngreso\obj\Debug\net5.0\mayorIngreso.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\mayorIngreso\obj\Debug\net5.0\refint\mayorIngreso.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\mayorIngreso\obj\Debug\net5.0\mayorIngreso.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\mayorIngreso\obj\Debug\net5.0\mayorIngreso.genruntimeconfig.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicio6\mayorIngreso\obj\Debug\net5.0\ref\mayorIngreso.dll
