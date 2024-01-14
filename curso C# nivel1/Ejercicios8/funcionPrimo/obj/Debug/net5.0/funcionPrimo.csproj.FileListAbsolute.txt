@@ -1,0 +1,16 @@
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPrimo\obj\Debug\net5.0\funcionPrimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPrimo\obj\Debug\net5.0\funcionPrimo.AssemblyInfoInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPrimo\obj\Debug\net5.0\funcionPrimo.AssemblyInfo.cs
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPrimo\obj\Debug\net5.0\funcionPrimo.csproj.CoreCompileInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPrimo\obj\Debug\net5.0\funcionPrimo.sourcelink.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPrimo\bin\Debug\net5.0\funcionPrimo.exe
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPrimo\bin\Debug\net5.0\funcionPrimo.deps.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPrimo\bin\Debug\net5.0\funcionPrimo.runtimeconfig.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPrimo\bin\Debug\net5.0\funcionPrimo.runtimeconfig.dev.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPrimo\bin\Debug\net5.0\funcionPrimo.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPrimo\bin\Debug\net5.0\funcionPrimo.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPrimo\obj\Debug\net5.0\funcionPrimo.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPrimo\obj\Debug\net5.0\refint\funcionPrimo.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPrimo\obj\Debug\net5.0\funcionPrimo.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPrimo\obj\Debug\net5.0\funcionPrimo.genruntimeconfig.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPrimo\obj\Debug\net5.0\ref\funcionPrimo.dll
