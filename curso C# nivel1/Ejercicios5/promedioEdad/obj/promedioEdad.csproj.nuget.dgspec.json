@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicio3\\promedioEdad\\promedioEdad.csproj": {}
+    "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicios5\\promedioEdad\\promedioEdad.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicio3\\promedioEdad\\promedioEdad.csproj": {
+    "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicios5\\promedioEdad\\promedioEdad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicio3\\promedioEdad\\promedioEdad.csproj",
+        "projectUniqueName": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicios5\\promedioEdad\\promedioEdad.csproj",
         "projectName": "promedioEdad",
-        "projectPath": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicio3\\promedioEdad\\promedioEdad.csproj",
+        "projectPath": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicios5\\promedioEdad\\promedioEdad.csproj",
         "packagesPath": "C:\\Users\\ezeal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicio3\\promedioEdad\\obj\\",
+        "outputPath": "C:\\Users\\ezeal\\OneDrive\\Escritorio\\Archivos\\c#\\curso C# nivel1\\Ejercicios5\\promedioEdad\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ezeal\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
