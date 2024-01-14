@@ -1,0 +1,16 @@
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPar\obj\Debug\net5.0\funcioonPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPar\obj\Debug\net5.0\funcioonPar.AssemblyInfoInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPar\obj\Debug\net5.0\funcioonPar.AssemblyInfo.cs
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPar\obj\Debug\net5.0\funcioonPar.csproj.CoreCompileInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPar\obj\Debug\net5.0\funcioonPar.sourcelink.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPar\bin\Debug\net5.0\funcioonPar.exe
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPar\bin\Debug\net5.0\funcioonPar.deps.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPar\bin\Debug\net5.0\funcioonPar.runtimeconfig.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPar\bin\Debug\net5.0\funcioonPar.runtimeconfig.dev.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPar\bin\Debug\net5.0\funcioonPar.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPar\bin\Debug\net5.0\funcioonPar.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPar\obj\Debug\net5.0\funcioonPar.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPar\obj\Debug\net5.0\refint\funcioonPar.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPar\obj\Debug\net5.0\funcioonPar.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPar\obj\Debug\net5.0\funcioonPar.genruntimeconfig.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionPar\obj\Debug\net5.0\ref\funcioonPar.dll
