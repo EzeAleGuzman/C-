@@ -8,40 +8,70 @@ namespace funcionPrimo
         {
 
             // Hacer una función llamada “primo” que reciba un número entero y devuelva 1 si el número es primo o cero si no lo es. Hacer un programa para ingresar números. El lote corta cuando se ingresa un número cero. Informar el promedio teniendo en cuenta sólo los números primos.
-            
-            int num, resultado, contador,totalNum;
 
-            Console.WriteLine("escriba un numero: ");
+            //Instancio las variables que voy a utilizar
+            int num, resultado, primo, totalNum;
+
+            //solicito el ingreso de un numero
+            Console.WriteLine("Ingrese un numero distinto a cero: ");
             num = int.Parse(Console.ReadLine());
-            contador = 0;
+
+            //inicializo los contadores de la cantidad de primos y numeros ingresados
+            primo = 0;
             totalNum = 0;
-            while (num != 0){
+
+            //mientras el numero sea distinto a cero
+            while (num != 0)
+            {
+                //aumento el valor de la cantidad de numeros
                 totalNum++;
-            resultado = Primo(num);
-            if (resultado == 1){
-                contador++;
+
+                // asigno el resultado de llamar a mi funcion Primo a una variable
+                resultado = Primo(num);
+
+                //si esta variable da uno
+                if (resultado == 1)
+                {
+                    //Sumo los numeros primos
+                    primo++;
+                }
+                //vuelvo a solicitar que de ingrese un numero
+                Console.WriteLine("Ingrese un numero distinto a cero: ");
+                num = int.Parse(Console.ReadLine());
             }
-            Console.WriteLine("Desea agregar otro numero ");
-            Console.WriteLine("Desea cerrar el programa ingrece 0 ");
-            num = int.Parse(Console.ReadLine());
-            }
-            Console.WriteLine("El porcentaje de numeros primos es : "+(contador*100/totalNum)+"%");
+
+            //si se ingresa cero el program,a imprime por consola el porcentaje de numeros primos
+            Console.WtriteLine(new string('-',50));
+            Console.WriteLine("El porcentaje de numeros primos es : " + (primo * 100 / totalNum) + "%");
         }
 
-        static int Primo(int num){
 
+
+        //creo una funcion para saber si un numero es primo
+        static int Primo(int num)
+        {
+            //asigno un valor booleano a es primo
             bool esprimo = true;
 
-            for (int x=2; x < num; x++){
-                if (num %2 == 0 || num % x == 0 ){
+            //Creo el loop para recorrer todos los numeros menores a el argumento.
+            for (int x = 2; x < num; x++)
+            {
+                //si es par o en alguna de las iteraciones da como resto 0
+                if (num % 2 == 0 || num % x == 0)
+                {
+                    //cambio el valor de esprimo a false y termino el loop
                     esprimo = false;
                     break;
                 }
             }
-            if (esprimo){
+            //si es primo, retorno 1
+            if (esprimo)
+            {
                 return 1;
             }
-            else {
+            //si no lo es, retorno 0
+            else
+            {
                 return 0;
             }
 
