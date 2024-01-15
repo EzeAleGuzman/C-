@@ -1,0 +1,16 @@
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionposicitoCeroNegativo\obj\Debug\net5.0\funcionposicivoCeroNegativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionposicitoCeroNegativo\obj\Debug\net5.0\funcionposicivoCeroNegativo.AssemblyInfoInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionposicitoCeroNegativo\obj\Debug\net5.0\funcionposicivoCeroNegativo.AssemblyInfo.cs
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionposicitoCeroNegativo\obj\Debug\net5.0\funcionposicivoCeroNegativo.csproj.CoreCompileInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionposicitoCeroNegativo\obj\Debug\net5.0\funcionposicivoCeroNegativo.sourcelink.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionposicitoCeroNegativo\bin\Debug\net5.0\funcionposicivoCeroNegativo.exe
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionposicitoCeroNegativo\bin\Debug\net5.0\funcionposicivoCeroNegativo.deps.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionposicitoCeroNegativo\bin\Debug\net5.0\funcionposicivoCeroNegativo.runtimeconfig.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionposicitoCeroNegativo\bin\Debug\net5.0\funcionposicivoCeroNegativo.runtimeconfig.dev.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionposicitoCeroNegativo\bin\Debug\net5.0\funcionposicivoCeroNegativo.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionposicitoCeroNegativo\bin\Debug\net5.0\funcionposicivoCeroNegativo.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionposicitoCeroNegativo\obj\Debug\net5.0\funcionposicivoCeroNegativo.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionposicitoCeroNegativo\obj\Debug\net5.0\refint\funcionposicivoCeroNegativo.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionposicitoCeroNegativo\obj\Debug\net5.0\funcionposicivoCeroNegativo.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionposicitoCeroNegativo\obj\Debug\net5.0\funcionposicivoCeroNegativo.genruntimeconfig.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios8\funcionposicitoCeroNegativo\obj\Debug\net5.0\ref\funcionposicivoCeroNegativo.dll

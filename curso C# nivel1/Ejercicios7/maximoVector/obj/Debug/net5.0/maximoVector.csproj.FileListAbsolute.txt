@@ -1,0 +1,16 @@
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\maximoVector\obj\Debug\net5.0\maximoVector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\maximoVector\obj\Debug\net5.0\maximoVector.AssemblyInfoInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\maximoVector\obj\Debug\net5.0\maximoVector.AssemblyInfo.cs
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\maximoVector\obj\Debug\net5.0\maximoVector.csproj.CoreCompileInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\maximoVector\obj\Debug\net5.0\maximoVector.sourcelink.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\maximoVector\bin\Debug\net5.0\maximoVector.exe
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\maximoVector\bin\Debug\net5.0\maximoVector.deps.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\maximoVector\bin\Debug\net5.0\maximoVector.runtimeconfig.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\maximoVector\bin\Debug\net5.0\maximoVector.runtimeconfig.dev.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\maximoVector\bin\Debug\net5.0\maximoVector.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\maximoVector\bin\Debug\net5.0\maximoVector.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\maximoVector\obj\Debug\net5.0\maximoVector.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\maximoVector\obj\Debug\net5.0\refint\maximoVector.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\maximoVector\obj\Debug\net5.0\maximoVector.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\maximoVector\obj\Debug\net5.0\maximoVector.genruntimeconfig.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\maximoVector\obj\Debug\net5.0\ref\maximoVector.dll
