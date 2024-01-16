@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.InteropServices;
 
 namespace practica
 {
@@ -14,6 +15,9 @@ namespace practica
             b= int.Parse(Console.ReadLine());
             res = a+b+1;
             Console.WriteLine(res);
+
+        
         }
+
     }
 }
