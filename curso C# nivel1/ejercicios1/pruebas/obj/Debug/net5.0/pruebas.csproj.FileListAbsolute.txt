@@ -1,0 +1,16 @@
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios1\pruebas\obj\Debug\net5.0\pruebas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios1\pruebas\obj\Debug\net5.0\pruebas.AssemblyInfoInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios1\pruebas\obj\Debug\net5.0\pruebas.AssemblyInfo.cs
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios1\pruebas\obj\Debug\net5.0\pruebas.csproj.CoreCompileInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios1\pruebas\obj\Debug\net5.0\pruebas.sourcelink.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios1\pruebas\bin\Debug\net5.0\pruebas.exe
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios1\pruebas\bin\Debug\net5.0\pruebas.deps.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios1\pruebas\bin\Debug\net5.0\pruebas.runtimeconfig.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios1\pruebas\bin\Debug\net5.0\pruebas.runtimeconfig.dev.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios1\pruebas\bin\Debug\net5.0\pruebas.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios1\pruebas\bin\Debug\net5.0\pruebas.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios1\pruebas\obj\Debug\net5.0\pruebas.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios1\pruebas\obj\Debug\net5.0\refint\pruebas.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios1\pruebas\obj\Debug\net5.0\pruebas.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios1\pruebas\obj\Debug\net5.0\pruebas.genruntimeconfig.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios1\pruebas\obj\Debug\net5.0\ref\pruebas.dll

@@ -14,6 +14,7 @@ namespace maximoVector
 
             max = 0;
             ubicacion = 0;
+            
 
             for (int x = 0; x < 10; x++)
             {
@@ -26,7 +27,7 @@ namespace maximoVector
                     ubicacion = x;
                 }
             }
-            Console.WriteLine("El numero mayor ingresado es : "+max +" y su posicion en el vector es: "+ubicacion);
+            Console.WriteLine("El numero mayor ingresado es : "+ max +" y su posicion en el vector es: " + ubicacion);
         }
     }
 }

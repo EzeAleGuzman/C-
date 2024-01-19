@@ -1,0 +1,16 @@
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\mayorAlPromedio\obj\Debug\net5.0\mayorAlPromedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\mayorAlPromedio\obj\Debug\net5.0\mayorAlPromedio.AssemblyInfoInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\mayorAlPromedio\obj\Debug\net5.0\mayorAlPromedio.AssemblyInfo.cs
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\mayorAlPromedio\obj\Debug\net5.0\mayorAlPromedio.csproj.CoreCompileInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\mayorAlPromedio\obj\Debug\net5.0\mayorAlPromedio.sourcelink.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\mayorAlPromedio\bin\Debug\net5.0\mayorAlPromedio.exe
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\mayorAlPromedio\bin\Debug\net5.0\mayorAlPromedio.deps.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\mayorAlPromedio\bin\Debug\net5.0\mayorAlPromedio.runtimeconfig.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\mayorAlPromedio\bin\Debug\net5.0\mayorAlPromedio.runtimeconfig.dev.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\mayorAlPromedio\bin\Debug\net5.0\mayorAlPromedio.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\mayorAlPromedio\bin\Debug\net5.0\mayorAlPromedio.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\mayorAlPromedio\obj\Debug\net5.0\mayorAlPromedio.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\mayorAlPromedio\obj\Debug\net5.0\refint\mayorAlPromedio.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\mayorAlPromedio\obj\Debug\net5.0\mayorAlPromedio.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\mayorAlPromedio\obj\Debug\net5.0\mayorAlPromedio.genruntimeconfig.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\mayorAlPromedio\obj\Debug\net5.0\ref\mayorAlPromedio.dll
