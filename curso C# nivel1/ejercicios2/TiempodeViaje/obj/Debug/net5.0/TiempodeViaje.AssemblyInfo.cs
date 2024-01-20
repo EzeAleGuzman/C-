@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TiempodeViaje")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6d47693aa8dde4e288148b73611bc0e9cc03d57")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ea77e2de5439351e19697b0b41dd75a3602c762")]
 [assembly: System.Reflection.AssemblyProductAttribute("TiempodeViaje")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TiempodeViaje")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

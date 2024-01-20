@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cambioCaracteres")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f27a0574ef998c944f36e6599d251a936962cbd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ea77e2de5439351e19697b0b41dd75a3602c762")]
 [assembly: System.Reflection.AssemblyProductAttribute("cambioCaracteres")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cambioCaracteres")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
