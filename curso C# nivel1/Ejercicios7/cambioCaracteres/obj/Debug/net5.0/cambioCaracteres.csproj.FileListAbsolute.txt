@@ -1,0 +1,16 @@
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\cambioCaracteres\obj\Debug\net5.0\cambioCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\cambioCaracteres\obj\Debug\net5.0\cambioCaracteres.AssemblyInfoInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\cambioCaracteres\obj\Debug\net5.0\cambioCaracteres.AssemblyInfo.cs
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\cambioCaracteres\obj\Debug\net5.0\cambioCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\cambioCaracteres\obj\Debug\net5.0\cambioCaracteres.sourcelink.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\cambioCaracteres\bin\Debug\net5.0\cambioCaracteres.exe
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\cambioCaracteres\bin\Debug\net5.0\cambioCaracteres.deps.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\cambioCaracteres\bin\Debug\net5.0\cambioCaracteres.runtimeconfig.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\cambioCaracteres\bin\Debug\net5.0\cambioCaracteres.runtimeconfig.dev.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\cambioCaracteres\bin\Debug\net5.0\cambioCaracteres.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\cambioCaracteres\bin\Debug\net5.0\cambioCaracteres.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\cambioCaracteres\obj\Debug\net5.0\cambioCaracteres.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\cambioCaracteres\obj\Debug\net5.0\refint\cambioCaracteres.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\cambioCaracteres\obj\Debug\net5.0\cambioCaracteres.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\cambioCaracteres\obj\Debug\net5.0\cambioCaracteres.genruntimeconfig.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\curso C# nivel1\Ejercicios7\cambioCaracteres\obj\Debug\net5.0\ref\cambioCaracteres.dll
