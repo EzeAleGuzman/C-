@@ -1,0 +1,16 @@
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\Ejemplo1\POO1\bin\Debug\net5.0\POO1.exe
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\Ejemplo1\POO1\bin\Debug\net5.0\POO1.deps.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\Ejemplo1\POO1\bin\Debug\net5.0\POO1.runtimeconfig.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\Ejemplo1\POO1\bin\Debug\net5.0\POO1.runtimeconfig.dev.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\Ejemplo1\POO1\bin\Debug\net5.0\POO1.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\Ejemplo1\POO1\bin\Debug\net5.0\POO1.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\Ejemplo1\POO1\obj\Debug\net5.0\POO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\Ejemplo1\POO1\obj\Debug\net5.0\POO1.AssemblyInfoInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\Ejemplo1\POO1\obj\Debug\net5.0\POO1.AssemblyInfo.cs
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\Ejemplo1\POO1\obj\Debug\net5.0\POO1.csproj.CoreCompileInputs.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\Ejemplo1\POO1\obj\Debug\net5.0\POO1.sourcelink.json
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\Ejemplo1\POO1\obj\Debug\net5.0\POO1.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\Ejemplo1\POO1\obj\Debug\net5.0\refint\POO1.dll
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\Ejemplo1\POO1\obj\Debug\net5.0\POO1.pdb
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\Ejemplo1\POO1\obj\Debug\net5.0\POO1.genruntimeconfig.cache
+C:\Users\ezeal\OneDrive\Escritorio\Archivos\c#\Ejemplo1\POO1\obj\Debug\net5.0\ref\POO1.dll

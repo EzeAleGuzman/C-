@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mayorMenora10")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ea77e2de5439351e19697b0b41dd75a3602c762")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98476b059321c84656130f441cf31ec7656837f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("mayorMenora10")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mayorMenora10")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
